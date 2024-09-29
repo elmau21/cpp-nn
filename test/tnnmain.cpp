@@ -1,4 +1,4 @@
-#include "Transformer.cpp"
+#include "Transformer.h"
 
 int tnnmain() {
     int d_model = 512;         // Dimension of model
