@@ -1,4 +1,4 @@
-# NextMID AI Project
+# NextMID NeuralCPPNetworks
 
 ## Overview
 
