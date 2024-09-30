@@ -26,8 +26,8 @@ This project aims to develop a comprehensive AI-driven solution for various appl
 To get started with the project, clone the repository and follow the installation instructions.
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/elmau21/cpp-nn.git
+cd cpp-nn
 ```
 ## Networks
 
