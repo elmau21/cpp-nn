@@ -8,7 +8,6 @@ This project aims to develop a comprehensive AI-driven solution for various appl
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
 - [Networks](#networks)
 - [Requirements](#requirements)
 - [Installation](#installation)
